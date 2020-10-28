@@ -46,14 +46,104 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="10_NominaEmpleados.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="10_NominaEmpleados.Designer.cs">
+      <DependentUpon>10_NominaEmpleados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="1_OperacionesMatematicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1_OperacionesMatematicas.Designer.cs">
+      <DependentUpon>1_OperacionesMatematicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="2_FuncionesMatematicas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="2_FuncionesMatematicas.Designer.cs">
+      <DependentUpon>2_FuncionesMatematicas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="3_RespuestaCorrectaIncorrecta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="3_RespuestaCorrectaIncorrecta.Designer.cs">
+      <DependentUpon>3_RespuestaCorrectaIncorrecta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="4_ConmebolLibertadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="4_ConmebolLibertadores.Designer.cs">
+      <DependentUpon>4_ConmebolLibertadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="5_ProduccionEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="5_ProduccionEmpleado.Designer.cs">
+      <DependentUpon>5_ProduccionEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="6_NumeroCD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="6_NumeroCD.Designer.cs">
+      <DependentUpon>6_NumeroCD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="7_SumatoriaPositivoNegativo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="7_SumatoriaPositivoNegativo.Designer.cs">
+      <DependentUpon>7_SumatoriaPositivoNegativo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="8_MuestreoPersonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="8_MuestreoPersonas.Designer.cs">
+      <DependentUpon>8_MuestreoPersonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="9_MatrizCalificaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="9_MatrizCalificaciones.Designer.cs">
+      <DependentUpon>9_MatrizCalificaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MenuProgramas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MenuProgramas.Designer.cs">
+      <DependentUpon>MenuProgramas.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="10_NominaEmpleados.resx">
+      <DependentUpon>10_NominaEmpleados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1_OperacionesMatematicas.resx">
+      <DependentUpon>1_OperacionesMatematicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="2_FuncionesMatematicas.resx">
+      <DependentUpon>2_FuncionesMatematicas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="3_RespuestaCorrectaIncorrecta.resx">
+      <DependentUpon>3_RespuestaCorrectaIncorrecta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="4_ConmebolLibertadores.resx">
+      <DependentUpon>4_ConmebolLibertadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="5_ProduccionEmpleado.resx">
+      <DependentUpon>5_ProduccionEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="6_NumeroCD.resx">
+      <DependentUpon>6_NumeroCD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="7_SumatoriaPositivoNegativo.resx">
+      <DependentUpon>7_SumatoriaPositivoNegativo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="8_MuestreoPersonas.resx">
+      <DependentUpon>8_MuestreoPersonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="9_MatrizCalificaciones.resx">
+      <DependentUpon>9_MatrizCalificaciones.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

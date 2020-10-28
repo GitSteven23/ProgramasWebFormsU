@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ProgramasWebFormsU
 {
-    public partial class Form1 : Form
+    public partial class _9_MatrizCalificaciones : Form
     {
-        public Form1()
+        public _9_MatrizCalificaciones()
         {
             InitializeComponent();
         }
