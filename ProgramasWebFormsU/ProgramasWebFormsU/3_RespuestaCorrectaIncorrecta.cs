@@ -44,11 +44,10 @@ namespace ProgramasWebFormsU
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int correctas, incorrectas, blanco, postulantes,
+            int correctas, incorrectas, blanco,
                 puntajec, puntajei, puntajeb;
 
-            postulantes = int.Parse(textBox1.Text);
-            correctas = int.Parse(textBox2.Text);
+                        correctas = int.Parse(textBox2.Text);
             incorrectas = int.Parse(textBox3.Text);
             blanco = int.Parse(textBox4.Text);
 
