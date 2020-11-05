@@ -47,7 +47,7 @@ namespace ProgramasWebFormsU
             int correctas, incorrectas, blanco,
                 puntajec, puntajei, puntajeb;
 
-                        correctas = int.Parse(textBox2.Text);
+            correctas = int.Parse(textBox2.Text);
             incorrectas = int.Parse(textBox3.Text);
             blanco = int.Parse(textBox4.Text);
 
