@@ -12,3 +12,23 @@ C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\Programa
 C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.Properties.Resources.resources
 C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.csproj.GenerateResource.cache
 C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.csproj.CoreCompileInputs.cache
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.csprojAssemblyReference.cache
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._10_NominaEmpleados.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._1_OperacionesMatematicas.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._2_FuncionesMatematicas.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._3_RespuestaCorrectaIncorrecta.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._4_ConmebolLibertadores.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._5_ProduccionEmpleado.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._6_NumeroCD.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._7_SumatoriaPositivoNegativo.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._8_MuestreoPersonas.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU._9_MatrizCalificaciones.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.MenuProgramas.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.Properties.Resources.resources
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.csproj.GenerateResource.cache
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.csproj.CoreCompileInputs.cache
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\bin\Debug\ProgramasWebFormsU.exe.config
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\bin\Debug\ProgramasWebFormsU.exe
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\bin\Debug\ProgramasWebFormsU.pdb
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.exe
+C:\Users\Layne Silva Acosta\Source\Repos\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.pdb
