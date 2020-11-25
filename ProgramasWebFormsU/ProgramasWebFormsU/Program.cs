@@ -16,7 +16,7 @@ namespace ProgramasWebFormsU
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new _5_ProduccionEmpleado());
+            Application.Run(new MenuProgramas());
         }
     }
 }
