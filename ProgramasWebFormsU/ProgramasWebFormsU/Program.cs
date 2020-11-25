@@ -16,7 +16,7 @@ namespace ProgramasWebFormsU
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new _7_SumatoriaPositivoNegativo());
+            Application.Run(new _5_ProduccionEmpleado());
         }
     }
 }
