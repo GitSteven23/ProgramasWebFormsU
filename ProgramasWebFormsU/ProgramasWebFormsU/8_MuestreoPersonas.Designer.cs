@@ -58,7 +58,7 @@
             this.label1.Location = new System.Drawing.Point(78, 66);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(266, 70);
+            this.label1.Size = new System.Drawing.Size(620, 158);
             this.label1.TabIndex = 0;
             this.label1.Text = "8. Muestreo Personas\r\nCorte III";
             this.label1.Click += new System.EventHandler(this.label1_Click);
@@ -67,7 +67,7 @@
             // 
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(565, 66);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(225, 90);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -81,7 +81,7 @@
             this.label2.Location = new System.Drawing.Point(738, 603);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(250, 18);
+            this.label2.Size = new System.Drawing.Size(603, 44);
             this.label2.TabIndex = 2;
             this.label2.Text = "Se tomará un muestro para 10 personas";
             // 
@@ -92,7 +92,7 @@
             this.label3.Location = new System.Drawing.Point(80, 237);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(109, 35);
+            this.label3.Size = new System.Drawing.Size(251, 79);
             this.label3.TabIndex = 3;
             this.label3.Text = "Persona";
             // 
@@ -100,9 +100,9 @@
             // 
             this.textBox1.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(284, 288);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(124, 32);
+            this.textBox1.Size = new System.Drawing.Size(124, 66);
             this.textBox1.TabIndex = 4;
             // 
             // label4
@@ -112,7 +112,7 @@
             this.label4.Location = new System.Drawing.Point(82, 288);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(110, 24);
+            this.label4.Size = new System.Drawing.Size(260, 59);
             this.label4.TabIndex = 5;
             this.label4.Text = "Digite edad:";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -124,7 +124,7 @@
             this.label5.Location = new System.Drawing.Point(84, 347);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(182, 24);
+            this.label5.Size = new System.Drawing.Size(430, 59);
             this.label5.TabIndex = 6;
             this.label5.Text = "Digite su peso en Kg:";
             // 
@@ -132,16 +132,16 @@
             // 
             this.textBox2.Font = new System.Drawing.Font("Calibri", 12F);
             this.textBox2.Location = new System.Drawing.Point(284, 347);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(124, 32);
+            this.textBox2.Size = new System.Drawing.Size(124, 66);
             this.textBox2.TabIndex = 7;
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Calibri", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(248, 426);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(160, 104);
             this.button1.TabIndex = 8;
@@ -156,7 +156,7 @@
             this.label6.Location = new System.Drawing.Point(577, 238);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(123, 37);
+            this.label6.Size = new System.Drawing.Size(291, 88);
             this.label6.TabIndex = 9;
             this.label6.Text = "TOTALES";
             // 
@@ -167,7 +167,7 @@
             this.label7.Location = new System.Drawing.Point(579, 285);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(226, 29);
+            this.label7.Size = new System.Drawing.Size(525, 68);
             this.label7.TabIndex = 10;
             this.label7.Text = "Promedio peso niños:";
             // 
@@ -178,7 +178,7 @@
             this.label8.Location = new System.Drawing.Point(579, 337);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(248, 29);
+            this.label8.Size = new System.Drawing.Size(576, 68);
             this.label8.TabIndex = 11;
             this.label8.Text = "Promedio peso jóvenes:";
             // 
@@ -189,7 +189,7 @@
             this.label9.Location = new System.Drawing.Point(579, 389);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(246, 29);
+            this.label9.Size = new System.Drawing.Size(570, 68);
             this.label9.TabIndex = 12;
             this.label9.Text = "Promedio peso adultos:";
             // 
@@ -200,7 +200,7 @@
             this.label10.Location = new System.Drawing.Point(579, 445);
             this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(260, 29);
+            this.label10.Size = new System.Drawing.Size(603, 68);
             this.label10.TabIndex = 13;
             this.label10.Text = "Promedio peso ancianos:";
             // 
@@ -208,36 +208,36 @@
             // 
             this.textBox3.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox3.Location = new System.Drawing.Point(864, 285);
-            this.textBox3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox3.Margin = new System.Windows.Forms.Padding(4);
             this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(124, 32);
+            this.textBox3.Size = new System.Drawing.Size(124, 66);
             this.textBox3.TabIndex = 14;
             // 
             // textBox4
             // 
             this.textBox4.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox4.Location = new System.Drawing.Point(864, 337);
-            this.textBox4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox4.Margin = new System.Windows.Forms.Padding(4);
             this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(124, 32);
+            this.textBox4.Size = new System.Drawing.Size(124, 66);
             this.textBox4.TabIndex = 15;
             // 
             // textBox5
             // 
             this.textBox5.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox5.Location = new System.Drawing.Point(864, 389);
-            this.textBox5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox5.Margin = new System.Windows.Forms.Padding(4);
             this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(124, 32);
+            this.textBox5.Size = new System.Drawing.Size(124, 66);
             this.textBox5.TabIndex = 16;
             // 
             // textBox6
             // 
             this.textBox6.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox6.Location = new System.Drawing.Point(864, 442);
-            this.textBox6.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.textBox6.Margin = new System.Windows.Forms.Padding(4);
             this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(124, 32);
+            this.textBox6.Size = new System.Drawing.Size(124, 66);
             this.textBox6.TabIndex = 17;
             // 
             // label11
@@ -246,14 +246,14 @@
             this.label11.Font = new System.Drawing.Font("Calibri", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(185, 237);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(0, 35);
+            this.label11.Size = new System.Drawing.Size(0, 79);
             this.label11.TabIndex = 18;
             // 
             // _8_MuestreoPersonas
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 24F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(24F, 59F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1060, 678);
+            this.ClientSize = new System.Drawing.Size(2174, 1165);
             this.Controls.Add(this.label11);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.textBox5);
@@ -274,9 +274,10 @@
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "_8_MuestreoPersonas";
             this.Text = "Muestreo Personas";
+            this.Load += new System.EventHandler(this._8_MuestreoPersonas_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

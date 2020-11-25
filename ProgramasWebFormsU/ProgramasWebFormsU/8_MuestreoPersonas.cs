@@ -20,8 +20,8 @@ namespace ProgramasWebFormsU
         #region VARIABLES
 
         int[] personas = new int[10];
-        List<int> edadesTotal = new List<int>();
-        List<int> pesosTotal = new List<int>();
+        int[] edadesTotal = new int[10];
+        int[] pesosTotal = new int[10];
         int peso, edad;
 
         double promedioNiños = 0;
@@ -47,12 +47,12 @@ namespace ProgramasWebFormsU
             peso = Convert.ToInt32(textBox2.Text);
 
             for (int i = 1; i < personas.Length; i++)
-            {
+            {                   
                 label11.Text = i.ToString();
                 label11.Update();                
 
-                edadesTotal.Add(edad);
-                pesosTotal.Add(peso);
+                edadesTotal[i] = edad;
+                pesosTotal[i] = peso;
 
                 MessageBox.Show("Persona" + i + "agregada.");
 
@@ -99,6 +99,11 @@ namespace ProgramasWebFormsU
             textBox4.Text = Convert.ToDouble(Math.Round(totalPromedioJovenes, 2)).ToString();
             textBox5.Text = Convert.ToDouble(Math.Round(totalPromedioAdultos, 2)).ToString();
             textBox6.Text = Convert.ToDouble(Math.Round(totalPromedioAncianos, 2)).ToString();
+        }
+
+        private void _8_MuestreoPersonas_Load(object sender, EventArgs e)
+        {
+
         }
 
         private void label1_Click(object sender, EventArgs e)
