@@ -12,3 +12,9 @@ C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\Programa
 C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.Properties.Resources.resources
 C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.csproj.GenerateResource.cache
 C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.MenuProgramas.resources
+C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\bin\Debug\ProgramasWebFormsU.exe.config
+C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\bin\Debug\ProgramasWebFormsU.exe
+C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\bin\Debug\ProgramasWebFormsU.pdb
+C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.exe
+C:\Users\steve\Documents\GitHub U\ProgramasWebFormsU\ProgramasWebFormsU\ProgramasWebFormsU\obj\Debug\ProgramasWebFormsU.pdb
