@@ -57,5 +57,10 @@ namespace ProgramasWebFormsU
         {
 
         }
+
+        private void textBox6_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

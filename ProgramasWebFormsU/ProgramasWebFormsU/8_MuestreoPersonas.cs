@@ -43,16 +43,18 @@ namespace ProgramasWebFormsU
 
         private void button1_Click(object sender, EventArgs e)
         {
-            edad = Convert.ToInt32(textBox1.Text);
-            peso = Convert.ToInt32(textBox2.Text);
-
+            
             for (int i = 1; i < personas.Length; i++)
-            {                   
+            {
+
+                /*edad = int.Parse(textBox1.Text);
+                peso = int.Parse(textBox2.Text);*/
+
                 label11.Text = i.ToString();
                 label11.Update();                
 
-                edadesTotal[i] = edad;
-                pesosTotal[i] = peso;
+                edadesTotal[i] = int.Parse(textBox1.Text);
+                pesosTotal[i] = int.Parse(textBox2.Text);
 
                 MessageBox.Show("Persona" + i + "agregada.");
 
